@@ -1,2 +1,2 @@
-master
+hot_fix
 my new file
